@@ -1,0 +1,124 @@
+---
+booktitle: Proceedings of the Fifteenth Symposium on Conformal and Probabilistic Prediction
+  with Applications
+shortname: COPA
+year: '2026'
+volume: '329'
+start: &1 2026-09-02
+end: 2026-09-04
+published: 2026-08-30
+conference_number: '15'
+sections:
+- name: Preface
+  title: Preface
+- name: Foundations and Theory
+  title: Foundations and Theory
+- name: Calibration, Regression and Predictive Distributions
+  title: Calibration, Regression and Predictive Distributions
+- name: Explainability and Decision Making
+  title: Explainability and Decision Making
+- name: Online Testing, Change and Anomaly Detection
+  title: Online Testing, Change and Anomaly Detection
+- name: Multi-Output and Structured Prediction
+  title: Multi-Output and Structured Prediction
+- name: Robustness, Fairness and Distribution Shift
+  title: Robustness, Fairness and Distribution Shift
+- name: Applications
+  title: Applications
+- name: Extended Abstracts
+  title: Extended Abstracts
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: COPA-2026
+month: 0
+cycles: false
+bibtex_editor: Ahlberg, Ernst and Johansson, Ulf and Bostr\"om, Henrik and Carlevaro,
+  Alberto and Hallberg Szabadv\'{a}ry, Johan and Carlsson, Lars
+editor:
+- given: Ernst
+  family: Ahlberg
+- given: Ulf
+  family: Johansson
+- given: Henrik
+  family: Boström
+- given: Alberto
+  family: Carlevaro
+- given: Johan
+  family: Hallberg Szabadváry
+- given: Lars
+  family: Carlsson
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fifteenth Symposium on Conformal and Probabilistic Prediction with Applications
+    Held in M\"olnlycke Health Care, M\"olndal, Sweden on 02-04 September 2026
+
+  Published as Volume 329 by the Proceedings of Machine Learning Research on 30 August 2026.
+
+  Volume Edited by:
+    Ernst Ahlberg
+    Ulf Johansson
+    Henrik Boström
+    Alberto Carlevaro
+    Johan Hallberg Szabadváry
+    Lars Carlsson
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: 02--04 Sep
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v329"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v329
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v329
+email: ''
+conference:
+  name: Fifteenth Symposium on Conformal and Probabilistic Prediction with Applications
+  url: https://copa-conference.com/
+  location: Mölnlycke Health Care, Mölndal, Sweden
+  dates:
+  - *1
+  - 2026-09-03
+  - 2026-09-04
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: copa2026_clean.bib
+# Site settings
+# Original source:  copa2026_clean.bib
