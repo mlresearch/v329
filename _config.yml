@@ -4,7 +4,7 @@ booktitle: Proceedings of the Fifteenth Symposium on Conformal and Probabilistic
 shortname: COPA
 year: '2026'
 volume: '329'
-start: &1 2026-09-02
+start: 2026-09-02
 end: 2026-09-04
 published: 2026-08-30
 conference_number: '15'
@@ -104,7 +104,7 @@ conference:
   url: https://copa-conference.com/
   location: Mölnlycke Health Care, Mölndal, Sweden
   dates:
-  - *1
+  - 2026-09-02
   - 2026-09-03
   - 2026-09-04
 analytics:
